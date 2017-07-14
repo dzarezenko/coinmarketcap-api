@@ -1,6 +1,8 @@
-composer.phar
+# netbeans project files
+/nbproject/
+
+# composer vendor dir
 /vendor/
 
-# Commit your application's lock file http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file
-# You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
-# composer.lock
+# composer.lock in applications is ignored since it's automatically created by composer when application is installed
+/composer.lock
