@@ -25,6 +25,11 @@ To install CoinMarketCap API package you can use simple `composer.json`...
 }
 ```
 
+or run command:
+```
+composer require dzarezenko/coinmarketcap-api:dev-master
+```
+
 Usage
 -----
 You can find usage examples in the `examples/` folder.
