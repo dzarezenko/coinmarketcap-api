@@ -5,6 +5,7 @@ PHP wrapper for the CoinMarketCap API
 [![License](https://poser.pugx.org/dzarezenko/coinmarketcap-api/license)](https://packagist.org/packages/dzarezenko/coinmarketcap-api)
 [![StyleCI](https://styleci.io/repos/97101811/shield)](https://styleci.io/repos/97101811)
 [![Code Climate](https://codeclimate.com/github/dzarezenko/coinmarketcap-api/badges/gpa.svg)](https://codeclimate.com/github/dzarezenko/coinmarketcap-api)
+<span class="badge-ehereum"><a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=0x8Ef300465FBf0f3867E85AC60D9faD9DC6a232d9" title="Donate once-off to this project using Ethereum"><img src="https://img.shields.io/badge/ethereum-donate-blue.svg" alt="Ethereum donate button" /></a></span>
 <span class="badge-bitcoin"><a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=1DKLUPCWoLFje7RBWVpDZk1tXjyRKHFkQw" title="Donate once-off to this project using Bitcoin"><img src="https://img.shields.io/badge/bitcoin-donate-yellow.svg" alt="Bitcoin donate button" /></a></span>
 
 Requirements
@@ -36,4 +37,6 @@ You can find usage examples in the `examples/` folder.
 
 Donate
 -----
-You can support this project by continuously donations to BTC wallet: `1DKLUPCWoLFje7RBWVpDZk1tXjyRKHFkQw`
+You can support this project by continuously donations to
+ * ETH wallet: `0x8Ef300465FBf0f3867E85AC60D9faD9DC6a232d9`
+ * BTC wallet: `1DKLUPCWoLFje7RBWVpDZk1tXjyRKHFkQw`
